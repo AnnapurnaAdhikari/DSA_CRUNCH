@@ -1,4 +1,4 @@
-// 84. Largest Rectangle in Histogram
+// 84. Largest Rectangle in Histogram (HARD)
 
 #include <bits/stdc++.h>
 using namespace std;

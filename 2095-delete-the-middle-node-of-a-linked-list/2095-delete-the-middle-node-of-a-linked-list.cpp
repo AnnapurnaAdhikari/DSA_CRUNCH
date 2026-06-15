@@ -10,26 +10,40 @@
  */
 class Solution {
 public:
-    ListNode* midNode(ListNode* head){
-        ListNode* fast = head;
-        ListNode* slow = head;
-        while(fast && fast->next){
+//approach1:
+    // ListNode* midNode(ListNode* head){
+    //     ListNode* fast = head;
+    //     ListNode* slow = head;
+    //     while(fast && fast->next){
+    //         fast = fast->next->next;
+    //         slow = slow->next;
+    //     }
+    //     return slow; //second middle
+    // }
+    // ListNode* deleteMiddle(ListNode* head) {
+    //     if(head == NULL || head->next == NULL)
+    //         return NULL;
+    //     ListNode* mid = midNode(head);
+    //     // cout<<mid->val<<" ";
+    //     ListNode* temp = head;
+    //     while(temp->next != mid){
+    //         temp = temp->next;
+    //     }
+    //     // cout<<temp->val<<" ";
+    //     temp->next = mid->next;
+    //     delete mid;
+    //     return head;    }
+    ListNode* deleteMiddle(ListNode* head) {
+        ListNode* fast = head, *slow = head;
+
+        if (fast->next == NULL) return NULL;
+        fast = fast->next->next;
+        while (fast && fast->next) {
             fast = fast->next->next;
             slow = slow->next;
         }
-        return slow; //second middle
-    }
-    ListNode* deleteMiddle(ListNode* head) {
-        if(head == NULL || head->next == NULL)
-            return NULL;
-        ListNode* mid = midNode(head);
-        // cout<<mid->val<<" ";
-        ListNode* temp = head;
-        while(temp->next != mid){
-            temp = temp->next;
+
+        slow->next = slow->next->next;
+        return head;
         }
-        // cout<<temp->val<<" ";
-        temp->next = mid->next;
-        delete mid;
-        return head;    }
 };

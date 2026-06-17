@@ -28,8 +28,10 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->

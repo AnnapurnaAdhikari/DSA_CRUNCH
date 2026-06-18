@@ -35,4 +35,16 @@
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3614-process-string-with-special-operations-ii) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

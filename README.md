@@ -16,6 +16,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Linked List
 |  |
@@ -52,4 +53,16 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->

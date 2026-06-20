@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
+## Sorting
+|  |
+| ------- |
+| [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 <!---LeetCode Topics End-->

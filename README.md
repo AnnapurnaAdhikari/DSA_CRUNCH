@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Linked List
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |

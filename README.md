@@ -17,6 +17,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Linked List
@@ -61,10 +62,12 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
@@ -84,4 +87,8 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

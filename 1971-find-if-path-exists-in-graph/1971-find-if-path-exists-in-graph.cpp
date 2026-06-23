@@ -32,7 +32,6 @@ public:
             if(!isVisited[source]){
                 dfs(source, adj, isVisited, foundValidPath, destination);
             }
-        if(foundValidPath) return true;
-        return false;
+        return foundValidPath;
     }
 };

@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->

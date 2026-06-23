@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -64,11 +65,13 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -93,4 +96,5 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

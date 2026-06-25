@@ -49,11 +49,13 @@
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -104,4 +108,16 @@
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

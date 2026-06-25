@@ -14,10 +14,12 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -69,6 +71,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -127,4 +128,13 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

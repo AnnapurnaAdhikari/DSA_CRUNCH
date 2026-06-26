@@ -7,6 +7,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -113,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -145,4 +147,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0257-binary-tree-paths) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

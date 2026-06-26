@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
@@ -154,6 +155,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |

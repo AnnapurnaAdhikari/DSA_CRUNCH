@@ -60,6 +60,7 @@
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -68,6 +69,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->

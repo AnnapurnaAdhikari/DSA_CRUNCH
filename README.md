@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [1046-last-stone-weight](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1046-last-stone-weight) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |

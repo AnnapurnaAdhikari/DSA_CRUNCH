@@ -67,6 +67,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [1046-last-stone-weight](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1046-last-stone-weight) |
+| [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
+| [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer

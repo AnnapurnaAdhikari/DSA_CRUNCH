@@ -45,6 +45,7 @@
 | [0344-reverse-string](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -126,6 +128,7 @@
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
@@ -138,12 +141,14 @@
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -164,6 +169,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -193,10 +199,12 @@
 | [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |

@@ -34,6 +34,7 @@
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Linked List
 |  |
@@ -118,6 +119,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -127,6 +129,7 @@
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -162,6 +165,7 @@
 | [0547-number-of-provinces](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming

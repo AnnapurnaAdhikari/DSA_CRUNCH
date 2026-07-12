@@ -53,6 +53,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3614-process-string-with-special-operations-ii) |
@@ -100,6 +101,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
@@ -252,4 +254,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->

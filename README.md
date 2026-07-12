@@ -75,6 +75,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0704-binary-search) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1046-last-stone-weight) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
@@ -100,6 +101,7 @@
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |

@@ -71,6 +71,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1046-last-stone-weight) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
@@ -206,6 +207,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |

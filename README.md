@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2769-find-the-maximum-achievable-number) |
@@ -72,6 +73,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1046-last-stone-weight) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
@@ -97,6 +99,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -113,6 +116,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |

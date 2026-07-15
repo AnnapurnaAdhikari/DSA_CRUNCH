@@ -51,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
+| [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
@@ -277,4 +279,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

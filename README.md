@@ -13,6 +13,7 @@
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -171,6 +172,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |

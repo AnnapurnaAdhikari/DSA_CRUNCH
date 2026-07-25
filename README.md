@@ -70,6 +70,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0051-n-queens) |
@@ -103,6 +104,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |

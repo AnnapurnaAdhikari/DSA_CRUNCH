@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
@@ -107,6 +108,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |

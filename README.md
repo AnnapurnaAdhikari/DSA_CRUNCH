@@ -9,6 +9,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2769-find-the-maximum-achievable-number) |
@@ -81,6 +82,7 @@
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0994-rotting-oranges) |
@@ -172,6 +174,7 @@
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0628-maximum-product-of-three-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

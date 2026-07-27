@@ -65,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3614-process-string-with-special-operations-ii) |
@@ -88,6 +89,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
@@ -130,6 +132,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3898-find-the-degree-of-each-vertex) |

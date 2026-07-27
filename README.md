@@ -12,6 +12,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,6 +93,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0208-implement-trie-prefix-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

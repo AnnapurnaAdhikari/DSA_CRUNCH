@@ -102,6 +102,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -124,6 +125,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3739-count-subarrays-with-majority-element-ii) |

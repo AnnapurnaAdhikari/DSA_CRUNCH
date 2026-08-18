@@ -14,6 +14,7 @@
 | [1840-maximum-building-height](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -60,6 +61,7 @@
 | [0344-reverse-string](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1189-maximum-number-of-balloons) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -194,6 +196,7 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort

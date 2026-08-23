@@ -44,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -274,6 +275,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

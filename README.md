@@ -7,6 +7,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@
 | [0217-contains-duplicate](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AnnapurnaAdhikari/DSA_CRUNCH/tree/master/0704-binary-search) |
